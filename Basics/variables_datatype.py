@@ -1,0 +1,9 @@
+a=10
+b=5.5
+c="Python"
+print(a)
+print(type(a))
+print(b)
+print(type(b))
+print(c)
+print(type(c))
