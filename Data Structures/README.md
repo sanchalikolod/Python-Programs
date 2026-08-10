@@ -33,7 +33,3 @@ This folder contains programs and practice problems based on Python's built-in d
   * Traversing dictionaries
   * Counting frequencies using dictionaries
   * Dictionary-based problems
-
-
-
-Learning and practicing Python data structures.
