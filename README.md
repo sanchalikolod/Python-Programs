@@ -3,3 +3,5 @@ This repository contains my Python practice programs as I learn Python from scra
 ## Topics Covered
 - Basics
 - Problem-Solving in Python
+- Data Structures in Python
+  
